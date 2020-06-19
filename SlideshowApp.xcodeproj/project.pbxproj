@@ -13,6 +13,10 @@
 		123A98F7249B6793005336E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 123A98F5249B6793005336E5 /* Main.storyboard */; };
 		123A98F9249B6797005336E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 123A98F8249B6797005336E5 /* Assets.xcassets */; };
 		123A98FC249B6797005336E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 123A98FA249B6797005336E5 /* LaunchScreen.storyboard */; };
+		123A9904249B71AD005336E5 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123A9903249B71AD005336E5 /* ResultViewController.swift */; };
+		123A9906249B7F46005336E5 /* galaxy-3279274__340.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 123A9905249B7F45005336E5 /* galaxy-3279274__340.jpg */; };
+		123A9908249B7F5D005336E5 /* temple-4687909__340.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 123A9907249B7F5D005336E5 /* temple-4687909__340.jpg */; };
+		123A990A249B7F65005336E5 /* medieval-276019__340.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 123A9909249B7F65005336E5 /* medieval-276019__340.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		123A98F8249B6797005336E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		123A98FB249B6797005336E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		123A98FD249B6797005336E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		123A9903249B71AD005336E5 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		123A9905249B7F45005336E5 /* galaxy-3279274__340.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "galaxy-3279274__340.jpg"; sourceTree = "<group>"; };
+		123A9907249B7F5D005336E5 /* temple-4687909__340.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "temple-4687909__340.jpg"; sourceTree = "<group>"; };
+		123A9909249B7F65005336E5 /* medieval-276019__340.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "medieval-276019__340.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +67,10 @@
 				123A98EF249B6793005336E5 /* AppDelegate.swift */,
 				123A98F1249B6793005336E5 /* SceneDelegate.swift */,
 				123A98F3249B6793005336E5 /* ViewController.swift */,
+				123A9903249B71AD005336E5 /* ResultViewController.swift */,
+				123A9905249B7F45005336E5 /* galaxy-3279274__340.jpg */,
+				123A9907249B7F5D005336E5 /* temple-4687909__340.jpg */,
+				123A9909249B7F65005336E5 /* medieval-276019__340.jpg */,
 				123A98F5249B6793005336E5 /* Main.storyboard */,
 				123A98F8249B6797005336E5 /* Assets.xcassets */,
 				123A98FA249B6797005336E5 /* LaunchScreen.storyboard */,
@@ -125,9 +137,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				123A9906249B7F46005336E5 /* galaxy-3279274__340.jpg in Resources */,
+				123A990A249B7F65005336E5 /* medieval-276019__340.jpg in Resources */,
 				123A98FC249B6797005336E5 /* LaunchScreen.storyboard in Resources */,
 				123A98F9249B6797005336E5 /* Assets.xcassets in Resources */,
 				123A98F7249B6793005336E5 /* Main.storyboard in Resources */,
+				123A9908249B7F5D005336E5 /* temple-4687909__340.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +156,7 @@
 				123A98F4249B6793005336E5 /* ViewController.swift in Sources */,
 				123A98F0249B6793005336E5 /* AppDelegate.swift in Sources */,
 				123A98F2249B6793005336E5 /* SceneDelegate.swift in Sources */,
+				123A9904249B71AD005336E5 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
